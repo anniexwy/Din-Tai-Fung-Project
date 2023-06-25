@@ -14,12 +14,12 @@ Also, they told you to feel free to exclude the data which may cause bias in you
 
 ### Steps I went through
 #### 1. Data cleasing in PostgreSQL
-   _(See the .sql file in the repository for detail)_
+   _See the .sql file in the repository for detail_
 
-_While cleaning the data, I noticed the data for the week starting from May 14th (I define Sunday as the beginning of the week) is incomplete. In order to aviod bias, I limit the data to May 13th, 2023._
+_**While cleaning the data, I noticed the data for the week starting from May 14th (I define Sunday as the beginning of the week) is incomplete. In order to aviod bias, I limit the data to May 13th, 2023.**_
 
 #### 2. Conducted analysis according to the requests in PostgreSQL
-   _(See the .sql file in the repository for detail)_
+   _See the .sql file in the repository for detail_
 
 #### 3. Visualized my findings in Tableau 
 * Loaded the merged tables into Tableau
