@@ -39,9 +39,9 @@ _**While cleaning the data, I noticed the data for the week starting from May 14
 
 * Fridays turn out to be the least busiest days for Din Tai Fung with 510 total orders in this 5-month period.
 
-* As can be seen from the weekly order & revenue trends, after the new feature was lauched, both orders and reveune increased. This indicates that in general, the new feature seems effective in boosting sales & revenue. However, since the new feature has only lauched for more than one month, it is suggested that Din Tai Fung should conduct some further analysis for the long-term effect of this new feature in the future.  
+* As can be seen from the weekly order & revenue trends, after the new feature was lauched, both orders and reveune increased. This indicates that in general, the new feature seems effective in boosting sales & revenue. However, since the new feature has only lauched for more than one month, it is recommended that Din Tai Fung should conduct some further analysis for the long-term effect of this new feature in the future.  
 
-* After the introduction of the new features, Shrimp Fried Rice became Din Tai Fung customers' favourite fried rice, and Vegetarian Mushroom Buns became their new second favourite buns and the new main revenue-driver of the Buns category. But were these changes resulted from the introduction of the new feature, or by other aspects (e.g. quality issue)? It is suggested to take a look at the reviews leave by the customers during this period and conduct further analysis.
+* After the introduction of the new features, Shrimp Fried Rice became Din Tai Fung customers' favourite fried rice, and Vegetarian Mushroom Buns became their new second favourite buns and the new main revenue-driver of the Buns category. But were these changes resulted from the introduction of the new feature, or by other aspects (e.g. quality issue)? It is recommended to take a look at the reviews leave by the customers during this period and conduct further analysis.
    
 *Note: The order records in this dataset are not real-world data, but the cuisines and prices are based on real world menu.
 
