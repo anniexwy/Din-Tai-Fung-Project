@@ -16,7 +16,7 @@ Also, they told you to feel free to exclude the data which may cause bias in you
 #### 1. Data cleasing in PostgreSQL
    _See the .sql file in the repository for detail_
 
-_**While cleaning the data, I noticed the data for the week starting from May 14th (I define Sunday as the beginning of the week) is incomplete. In order to aviod bias, I limit the data to May 13th, 2023.**_
+_While cleaning the data, I noticed the data for the week starting from May 14th (I define Sunday as the beginning of the week) is incomplete. In order to aviod bias, I limit the data to May 13th, 2023._
 
 #### 2. Conducted analysis according to the requests in PostgreSQL
    _See the .sql file in the repository for detail_
@@ -27,7 +27,7 @@ _**While cleaning the data, I noticed the data for the week starting from May 14
 * Applied date filters to relevant worksheets, ensuring the data are comparable and relevant for my analysis
 * Designed interactive dashboards using the graphs I created in the worksheets
 
-(Dashboard Link: https://public.tableau.com/views/DinTaiFungProject/Dashboards?:language=zh-CN&:display_count=n&:origin=viz_share_link)
+_(Dashboard Link: https://public.tableau.com/views/DinTaiFungProject/Dashboards?:language=zh-CN&:display_count=n&:origin=viz_share_link)_
 
 ### Insights & Suggestions
 
